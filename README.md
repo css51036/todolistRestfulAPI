@@ -5,7 +5,7 @@
 
 Rest Api todolist 
 
-##Install
+## Install
 
 __install node.js and npm__
 
@@ -14,7 +14,7 @@ Download link : <https://nodejs.org/en/download/>
 __install Postman__
 Download link : <https://www.getpostman.com/>
 
-##How to run project
+## How to run project
 1. Clone project from github
 
 			git clone [url git hub repo]
